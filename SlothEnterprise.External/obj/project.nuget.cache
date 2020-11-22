@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MWRG4RZJ92QWJb7aqS3nxGNcX/1TovMSjFff8hTdtGv8vAhboYHzi9MXUSVqb8m+4l2ns1517rX7PsBmLTC2RQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon_Whale\\source\\repos\\code-test-backend\\SlothEnterprise.External\\SlothEnterprise.External.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon_Whale\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Simon_Whale\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

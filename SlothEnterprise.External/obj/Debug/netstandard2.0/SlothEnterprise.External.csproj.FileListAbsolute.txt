@@ -1,0 +1,9 @@
+C:\Users\Simon_Whale\Source\Repos\code-test-backend\SlothEnterprise.External\bin\Debug\netstandard2.0\SlothEnterprise.External.deps.json
+C:\Users\Simon_Whale\Source\Repos\code-test-backend\SlothEnterprise.External\bin\Debug\netstandard2.0\SlothEnterprise.External.dll
+C:\Users\Simon_Whale\Source\Repos\code-test-backend\SlothEnterprise.External\bin\Debug\netstandard2.0\SlothEnterprise.External.pdb
+C:\Users\Simon_Whale\Source\Repos\code-test-backend\SlothEnterprise.External\obj\Debug\netstandard2.0\SlothEnterprise.External.csprojAssemblyReference.cache
+C:\Users\Simon_Whale\Source\Repos\code-test-backend\SlothEnterprise.External\obj\Debug\netstandard2.0\SlothEnterprise.External.AssemblyInfoInputs.cache
+C:\Users\Simon_Whale\Source\Repos\code-test-backend\SlothEnterprise.External\obj\Debug\netstandard2.0\SlothEnterprise.External.AssemblyInfo.cs
+C:\Users\Simon_Whale\Source\Repos\code-test-backend\SlothEnterprise.External\obj\Debug\netstandard2.0\SlothEnterprise.External.csproj.CoreCompileInputs.cache
+C:\Users\Simon_Whale\Source\Repos\code-test-backend\SlothEnterprise.External\obj\Debug\netstandard2.0\SlothEnterprise.External.dll
+C:\Users\Simon_Whale\Source\Repos\code-test-backend\SlothEnterprise.External\obj\Debug\netstandard2.0\SlothEnterprise.External.pdb
